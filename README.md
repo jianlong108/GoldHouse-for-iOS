@@ -229,7 +229,7 @@
 
 ## cocoaPods
 
-* [细聊 Cocoapods 与 Xcode 工程配置](http://www.jianshu.com/p/ad2e37e741bb) -（来源：bestSwifter）
+* [细聊 Cocoapods 与 Xcode 工程配置](https://juejin.im/post/6844903459754360840) -（来源：掘金-bestswifter）
 * [CocoaPods 都做了什么？](http://www.jianshu.com/p/84936d9344ff) - （来源：Draveness）
 * [最新的CocoaPods的使用教程(一)](http://www.jianshu.com/p/dfe970588f95) -（来源：简书-Dely）
 * [最新的CocoaPods的使用教程(二)](http://www.jianshu.com/p/c6c258a7a3b8)-（来源：Dely）
